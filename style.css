@@ -1,0 +1,31 @@
+.header{
+    background-color: #5cbb1d;
+    border-radius: 12px;
+    padding: 10px;
+    display: flex;
+    justify-content:space-between;
+}
+.header__nav{
+    flex: flex-end;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+li{
+    list-style: none;
+}
+.nav__link{
+    text-decoration: none;
+    color:rgb(63, 47, 153);
+}
+ul{
+    display:flex;
+    gap: 40px;
+}
+.main__Playing{
+    font-weight:700;
+    color:#5cbb1d;
+}
+.main__needs{
+    font-weight:300;
+    color:cadetblue;
+}
