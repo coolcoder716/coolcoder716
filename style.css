@@ -5,6 +5,13 @@
     display: flex;
     justify-content:space-between;
 }
+.main{
+    background-color:orange;
+}
+.footer{
+    background-color:pink;
+}
+    
 .header__nav{
     flex: flex-end;
     margin-top: auto;
@@ -16,6 +23,7 @@ li{
 .nav__link{
     text-decoration: none;
     color:rgb(63, 47, 153);
+    font-weight:500;
 }
 ul{
     display:flex;
@@ -28,4 +36,12 @@ ul{
 .main__needs{
     font-weight:300;
     color:cadetblue;
+}
+.main__good{
+    font-weight: 800;
+    color:yellow;
+}
+.main__talk{
+    font-weight:200;
+    color:red;
 }
