@@ -48,3 +48,5 @@ ul{
 .nav__link:hover {
     color:yellow;
 }
+.header:hover {
+    background-color: red;
