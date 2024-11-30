@@ -50,3 +50,7 @@ ul{
 }
 .header:hover {
     background-color: red;
+}
+.header__input:focus {
+    background-color: pink;
+}
