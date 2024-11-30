@@ -45,3 +45,6 @@ ul{
     font-weight:200;
     color:red;
 }
+.nav__link:hover {
+    color:yellow;
+}
