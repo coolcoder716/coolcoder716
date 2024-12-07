@@ -55,7 +55,7 @@ ul{
     color: pink;
 }
 a {
-    transition: all 2s;
+    transition: scale 2s;
 }
 a:hover {
     transform: scale(75%);
