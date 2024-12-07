@@ -58,5 +58,5 @@ ul{
     transition: scale 2s;
 }
 .header__nav:hover {
-    transform: scale(75%);
+    transform: scale(90%);
 }
