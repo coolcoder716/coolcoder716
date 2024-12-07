@@ -55,7 +55,7 @@ ul{
     color: pink;
 }
 .header__nav {
-    transition: scale 2s;
+    transition: all 2s;
 }
 .header__nav:hover {
     transform: scale(90%);
