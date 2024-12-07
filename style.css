@@ -9,7 +9,7 @@
     background-color:orange;
 }
 .footer{
-    background-color:pink;
+    background-color:yellow;
 }
     
 .header__nav{
@@ -54,12 +54,9 @@ ul{
 .main__Playing:active {
     color: pink;
 }
-a {
+.header__nav {
     transition: scale 2s;
 }
-.playing {
-    transition: scale 2s;
-}
-.playing:hover {
+.header__nav:hover {
     transform: scale(75%);
 }
