@@ -57,6 +57,9 @@ ul{
 a {
     transition: scale 2s;
 }
-a:hover {
+.playing {
+    transition: scale 2s;
+}
+.playing:hover {
     transform: scale(75%);
 }
