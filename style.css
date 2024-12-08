@@ -72,3 +72,9 @@ ul{
 .main__needs:hover {
     transform: scale(95%);
 }
+.main__good {
+    transition: all 2.5s;
+}
+.main__good: hover {
+    transform: scale(93%);
+}
