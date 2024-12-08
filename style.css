@@ -60,9 +60,9 @@ ul{
 .header__nav:hover {
     transform: scale(85%);
 }
-.main__playing {
+.main__Playing {
     transition: all 1s;
 }
-.main__playing:hover {
+.main__Playing:hover {
     transform: scale(90%);
 }
