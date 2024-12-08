@@ -52,7 +52,7 @@ ul{
     background-color: red;
 }
 .main__Playing:active {
-    color: purple;
+    color: pink;
 }
 .header__nav {
     transition: all 2s;
@@ -64,5 +64,11 @@ ul{
     transition: all 1s;
 }
 .main__Playing:hover {
-    transform: scale(90%);
+    transform: scale(97%);
+}
+.main__needs {
+    transition: all 1s;
+}
+.main__needs:hover {
+    transform: scale(95%);
 }
