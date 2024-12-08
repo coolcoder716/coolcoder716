@@ -31,7 +31,7 @@ ul{
 }
 .main__Playing{
     font-weight:700;
-    color:#5cbb1d;
+    color:pink;
 }
 .main__needs{
     font-weight:300;
@@ -52,7 +52,7 @@ ul{
     background-color: red;
 }
 .main__Playing:active {
-    color: pink;
+    color:white;
 }
 .header__nav {
     transition: all 2s;
