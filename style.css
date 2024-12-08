@@ -49,7 +49,7 @@ ul{
     color:yellow;
 }
 .header:hover {
-    background-color: pink;
+    background-color: red;
 }
 .main__Playing:active {
     color:white;
