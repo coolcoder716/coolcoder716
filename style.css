@@ -54,9 +54,15 @@ ul{
 .main__Playing:active {
     color: pink;
 }
-.nav__link {
+.header__nav {
     transition: all 2s;
 }
-.nav__link:hover {
+.header__nav:hover {
     transform: scale(85%);
+}
+.main__playing {
+    transition: all 1s;
+}
+.main__playing:hover {
+    transform: scale(90%);
 }
