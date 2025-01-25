@@ -93,3 +93,8 @@ ul{
 .image__worldle:hover {
     transform: rotate(45deg);
 }
+@media (max-width: 414) {
+    body {
+        text-size: 15px;
+    }
+}
