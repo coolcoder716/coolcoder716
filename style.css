@@ -11,6 +11,8 @@
 .footer{
     background-color:yellow;
 }
+body {
+    font-size: 15px;
     
 .header__nav{
     flex: flex-end;
@@ -95,6 +97,6 @@ ul{
 }
 @media (max-width: 414) {
     body {
-        text-size: 15px;
+        font-size: 10px;
     }
 }
