@@ -48,7 +48,7 @@ ul{
     color:red;
 }
 .nav__link:hover {
-    color:yellow;
+    color:olive;
 }
 .header:hover {
     background-color: red;
@@ -97,6 +97,6 @@ ul{
 }
 @media (max-width: 414) {
     body {
-        font-size: 10px;
+        object-fit:contain;
     }
 }
