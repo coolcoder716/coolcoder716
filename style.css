@@ -37,7 +37,7 @@ ul{
 }
 .main__needs{
     font-weight:300;
-    color:blue;
+    color:orange;
 }
 .main__good{
     font-weight: 800;
@@ -99,4 +99,6 @@ ul{
     body {
         object-fit:contain;
     }
+    header {
+        position:fixed;
 }
