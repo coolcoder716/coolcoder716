@@ -6,7 +6,7 @@
     justify-content:space-between;
 }
 .main{
-    background-color:orange;
+    background-color:pink;
 }
 .footer{
     background-color:yellow;
@@ -95,10 +95,11 @@ ul{
 .image__worldle:hover {
     transform: rotate(45deg);
 }
-@media (max-width: 414) {
+@media (max-width: 500) {
     body {
         object-fit:contain;
     }
     header {
         position:fixed;
+    }
 }
