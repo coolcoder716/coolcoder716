@@ -101,5 +101,6 @@ ul{
     }
     header {
         position:fixed;
+        font-size: 10px;
     }
 }
